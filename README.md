@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Yasmin 👋
 
-<!--
-**yasminComputing/yasminComputing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Ciência da Computação**, apaixonada por tecnologia e sempre em busca de aprender coisas novas :mag_right: 
 
-Here are some ideas to get you started:
+## 💡 Sobre mim
+- Interessada em desenvolvimento de software em Back-And.
+- Gosto de transformar ideias em soluções práticas 
+- Curiosa sobre o futuro da tecnologia e tendências digitais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- E-mail: yasmin.tavares@ufn.edu.br e yasmindeitos1959@gmail.com
+- LinkedIn: www.linkedin.com/in/yasmin-tavares-341102358
+  
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)    ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+
+
+## Linguagens
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)                ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
