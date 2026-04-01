@@ -3,7 +3,7 @@
 Sou estudante de **Ciência da Computação**, apaixonada por tecnologia e sempre em busca de aprender coisas novas :mag_right: 
 
 ## 💡 Sobre mim
-- Interessada em desenvolvimento de software em Back-And.
+- Interessada em desenvolvimento de software
 - Gosto de transformar ideias em soluções práticas 
 - Curiosa sobre o futuro da tecnologia e tendências digitais
 
