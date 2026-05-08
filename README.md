@@ -11,7 +11,5 @@ Sou estudante de **Ciência da Computação**, apaixonada por tecnologia e sempr
 - E-mail: yasmin.tavares@ufn.edu.br e yasmindeitos1959@gmail.com
 - LinkedIn: www.linkedin.com/in/yasmin-tavares-341102358
   
-##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminComputing&layout=compact)
 
