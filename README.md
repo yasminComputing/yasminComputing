@@ -14,21 +14,9 @@ Sou estudante de **Ciência da Computação**, apaixonada por tecnologia e sempr
 </p>
 
 ## 📫 Contato
-<div align="center">
+- E-mail: yasmindeitos1959@gmail.com e yasmin.tavares@ufn.edu.br
+- Linkedin: www.linkedin.com/in/yasmin-tavares-341102358
 
-  <a href="mailto:yasmindeitos1959@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red">
-  </a>
-
- <a href="mailto:yasmin.tavares@ufn.edu.br">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
- </a>
-
- <a href="https://www.linkedin.com/in/yasmin-tavares-341102358/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
   
 
 
