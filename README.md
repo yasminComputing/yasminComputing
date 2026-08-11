@@ -17,10 +17,7 @@ Sou estudante de **Ciência da Computação**, apaixonada por tecnologia e sempr
 - E-mail: yasmindeitos1959@gmail.com e yasmin.tavares@ufn.edu.br
 - Linkedin: www.linkedin.com/in/yasmin-tavares-341102358
 
-#
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yasminComputing/yasminComputing/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
+--- 
 
 
 
