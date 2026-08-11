@@ -19,9 +19,8 @@ Sou estudante de **Ciência da Computação**, apaixonada por tecnologia e sempr
 
 #
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yasminComputing/yasminComputing/output/snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/yasminComputing/yasminComputing/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
-
 
 
 
