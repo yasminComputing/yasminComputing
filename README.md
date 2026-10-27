@@ -5,7 +5,7 @@
 
 Sou estudante do 4º semestre de **Ciência da Computação na Universidade Franciscana (UFN)**, com interesse em **Desenvolvimento de Software**.
 
-Durante a graduação, venho desenvolvendo projetos acadêmicos principalmente com **Java *, aplicando conceitos de programação, Programação Orientada a Objetos e bancos de dados. Também venho estudando **JavaScript, HTML e CSS** por conta própria, ampliando meus conhecimentos em desenvolvimento de software.
+Durante a graduação, venho desenvolvendo projetos acadêmicos principalmente com **Java**, aplicando conceitos de programação, Programação Orientada a Objetos e bancos de dados. Também venho estudando **JavaScript, HTML e CSS** por conta própria, ampliando meus conhecimentos em desenvolvimento de software.
 
 Tenho experiência profissional na área administrativa, que contribuiu para o desenvolvimento de **organização, responsabilidade, atenção aos detalhes e trabalho em equipe**.
 
